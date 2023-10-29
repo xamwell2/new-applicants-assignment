@@ -56,7 +56,7 @@ to get started:
 This is where you will implement your calculator. Open the project in Visual Studio Code and start
 writing your HTML, CSS, and JavaScript code in the provided files.
 
-2. Code Formatting
+1. Code Formatting
 
 To ensure consistent code formatting, use the following command:
 
@@ -64,7 +64,7 @@ To ensure consistent code formatting, use the following command:
 npm run format
 ```
 
-3. Spell Check
+1. Spell Check
 
 Check your code for spelling errors using:
 
@@ -72,7 +72,7 @@ Check your code for spelling errors using:
 npm run spell-check
 ```
 
-4. Linting
+1. Linting
 
 Lint your code for best practices:
 
@@ -84,19 +84,19 @@ npm run lint:ls
 npm run lint:md
 ```
 
-5. Add your changes:
+1. Add your changes:
 
 ```bash
 git add .
 ```
 
-6. Commit your changes with a descriptive message:
+1. Commit your changes with a descriptive message:
 
 ```bash
 git commit -m 'Add calculator project'
 ```
 
-7. Push your changes to your GitHub repository:
+1. Push your changes to your GitHub repository:
 
 ```bash
 git push
