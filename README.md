@@ -16,33 +16,33 @@ to make it functional.
 Before you start working on the assignment, you need to set up your development environment. Follow these steps
 to get started:
 
-1. **GitHub Account:** If you don't already have a GitHub account, go to [www.github.com](https://www.github.com)
-   and create one. Please use your real name as your GitHub username, all in lowercase with no spaces (e.g., `samirm00`).
-
-2. **Create a New Repository:** Click on "Use this template" in the repository where you found this README at the top and
-   create a new repository on your GitHub account.
-
-3. **Install Git:** Ensure that you have Git installed on your computer. You can install Git depending on your
+1. **Node.js:** Ensure you have Node.js installed. If not, please install it from [https://nodejs.org/](https://nodejs.org/).
+   
+2. **Install Git:** Ensure that you have Git installed on your computer. You can install Git depending on your
    operating system. You can download it from [https://git-scm.com/](https://git-scm.com/).
-
-4. **Visual Studio Code:** Install Visual Studio Code, a text editor that will help you write your code.
+   
+3. **Visual Studio Code:** Install Visual Studio Code, a text editor that will help you write your code.
    You can download it from [https://code.visualstudio.com/](https://code.visualstudio.com/).
 
-5. **Live Server Extension:** Install the Live Server extension for Visual Studio Code. Once installed,
+4. **Live Server Extension:** Install the Live Server extension for Visual Studio Code. Once installed,
    right-click on your `index.html` file and select "Open with Live Server" to preview your calculator in
-   your browser. Please use Google Chrome for the best experience.
+   your browser. Please use Google Chrome for the best experience
+   
+5. **Open Terminal in VS Code:** Open Visual Studio Code and click on "Terminal," then choose "New Terminal."
+   
+6. **GitHub Account:** If you don't already have a GitHub account, go to [www.github.com](https://www.github.com)
+   and create one. Please use your real name as your GitHub username, all in lowercase with no spaces (e.g., `samirm00`).
 
-6. **Clone the Repository:** Clone the assignment repository by running the following command in your terminal:
+7. **Create a New Repository:** Click on "Use this template" in the repository where you found this README at the top and
+   create a new repository on your GitHub account.
+
+8. **Clone the Repository:** Clone the assignment repository by running the following command in your terminal:
 
    ```bash
    git clone https://github.com/YourGitHubUsername/new-applicants-assignment.git
    ```
 
    Replace `YourGitHubUsername` with your actual GitHub username.
-
-7. **Node.js:** Ensure you have Node.js installed. If not, please install it from [https://nodejs.org/](https://nodejs.org/).
-
-8. **Open Terminal in VS Code:** Open Visual Studio Code and click on "Terminal," then choose "New Terminal."
 
 9. **Install Dependencies:** Install the project dependencies by running the following command inside your project folder:
 
