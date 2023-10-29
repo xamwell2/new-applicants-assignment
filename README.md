@@ -17,17 +17,17 @@ Before you start working on the assignment, you need to set up your development 
 to get started:
 
 1. **Node.js:** Ensure you have Node.js installed. If not, please install it from [https://nodejs.org/](https://nodejs.org/).
-   
+
 2. **Install Git:** Ensure that you have Git installed on your computer. You can install Git depending on your
    operating system. You can download it from [https://git-scm.com/](https://git-scm.com/).
-   
+
 3. **Visual Studio Code:** Install Visual Studio Code, a text editor that will help you write your code.
    You can download it from [https://code.visualstudio.com/](https://code.visualstudio.com/).
 
 4. **Live Server Extension:** Install the Live Server extension for Visual Studio Code. Once installed,
    right-click on your `index.html` file and select "Open with Live Server" to preview your calculator in
    your browser. Please use Google Chrome for the best experience
-   
+
 5. **GitHub Account:** If you don't already have a GitHub account, go to [www.github.com](https://www.github.com)
    and create one. Please use your real name as your GitHub username, all in lowercase with no spaces (e.g., `samirm00`).
 
@@ -53,54 +53,54 @@ to get started:
 
 1. Writing Your Code
 
-This is where you will implement your calculator. Open the project in Visual Studio Code and start
-writing your HTML, CSS, and JavaScript code in the provided files.
+   This is where you will implement your calculator. Open the project in Visual Studio Code and start
+   writing your HTML, CSS, and JavaScript code in the provided files.
 
-1. Code Formatting
+2. Code Formatting
 
-To ensure consistent code formatting, use the following command:
+   To ensure consistent code formatting, use the following command:
 
-```bash
-npm run format
-```
+   ```bash
+   npm run format
+   ```
 
-1. Spell Check
+3. Spell Check
 
-Check your code for spelling errors using:
+   Check your code for spelling errors using:
 
-```bash
-npm run spell-check
-```
+   ```bash
+   npm run spell-check
+   ```
 
-1. Linting
+4. Linting
 
-Lint your code for best practices:
+   Lint your code for best practices:
 
-```bash
-npm run lint:ls
-```
+   ```bash
+   npm run lint:ls
+   ```
 
-```bash
-npm run lint:md
-```
+   ```bash
+   npm run lint:md
+   ```
 
-1. Add your changes:
+5. Add your changes:
 
-```bash
-git add .
-```
+   ```bash
+   git add .
+   ```
 
-1. Commit your changes with a descriptive message:
+6. Commit your changes with a descriptive message:
 
-```bash
-git commit -m 'Add calculator project'
-```
+   ```bash
+   git commit -m 'Add calculator project'
+   ```
 
-1. Push your changes to your GitHub repository:
+7. Push your changes to your GitHub repository:
 
-```bash
-git push
-```
+   ```bash
+   git push
+   ```
 
 ## Submission
 
