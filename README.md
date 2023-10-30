@@ -32,13 +32,7 @@ to get started:
    right-click on your `index.html` file and select "Open with Live Server" to preview your calculator in
    your browser. Please use Google Chrome for the best experience.
 
-6. **Clone the Repository:** Clone the assignment repository by running the following command in your terminal:
-
-   ```bash
-   git clone https://github.com/YourGitHubUsername/new-applicants-assignment.git
-   ```
-
-   Replace `YourGitHubUsername` with your actual GitHub username.
+6. **Fork the Repository:** Fork the assignment repository by clicking on `Fork`, then you will have your own copy of the repo on your GitHub account.
 
 7. **Node.js:** Ensure you have Node.js installed. If not, please install it from [https://nodejs.org/](https://nodejs.org/).
 
@@ -85,7 +79,7 @@ npm run lint:ls
 npm run lint:md
 ```
 
-5. Add your changes:
+5. Add your changes to the staging area by running the command:
 
 ```bash
 git add .
